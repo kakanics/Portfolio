@@ -4,7 +4,7 @@ import introduction from "./introduction";
 import Skills from "@/components/skills";
 import Project from "@/components/projects";
 import Contact from "@/components/Contact";
-
+import Image from 'next/image';
 
 const Home = () => {
   const sectionTitles = ["Introduction", "Skills", "Projects", "Contact Me"];
@@ -20,7 +20,7 @@ const Home = () => {
             alt="Profile Picture"
             className="rounded-full w-64 h-64 mx-auto mb-6"
           />
-          <h1 className="text-3xl font-bold text-white mb-4">Hello, I'm Affan Ahmed!</h1>
+          <h1 className="text-3xl font-bold text-white mb-4">Hello, I&apos;m Affan Ahmed!</h1>
           <p className="text-lg text-gray-300">
           {introduction}
           </p>
