@@ -1,13 +1,20 @@
-// app/page.tsx
+"use client"
 import Navbar from "../components/navbar";
 import introduction from "./introduction";
 import Skills from "@/components/skills";
 import Project from "@/components/projects";
 import Contact from "@/components/Contact";
 import Image from 'next/image';
+import { useEffect } from 'react';
 
 const Home = () => {
   const sectionTitles = ["Introduction", "Skills", "Projects", "Contact Me"];
+
+
+  useEffect(() => {
+    const key = process.env.KEY;
+    console.log("Environment Key:", key);
+  }, []);
 
     return (
     <div className="dark">
