@@ -6,12 +6,6 @@
         "link": "https://www.hackerrank.com/certificates/15ed117bb58f"
     },
     {
-        "certificateName": "CodSoft Internship certificate (AI/ML)",
-        "description": "Done for 1 month internship at CodSoft.",
-        "pathToImage": "/ai.png",
-        "link": "https://drive.google.com/file/d/1NPno3HQcEF6zVLU_dhRmiR6uNqb1ZXMf/view"
-    },
-    {
         "certificateName": "Internship certificate",
         "description": "This was given for developing the software square's website.",
         "pathToImage": "/swsqc.png",
@@ -34,5 +28,29 @@
         "description": "I was the problem setter for Codex 2.0 and this is an appreciation certificate.",
         "pathToImage": "/codex.png",
         "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_glad-to-see-that-codex-20-was-a-success-activity-7137064729608343552--qSd?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "certificateName": "Advanced Learning Algorithms",
+        "description": "Completion of advanced machine learning algorithms course by Deepmind.ai.",
+        "pathToImage": "/AdvancedLearningAlgo.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/SXGBUBSRNNDK"
+    },
+    {
+        "certificateName": "Unsupervised Learning, Recommenders, Reinforcement Learning",
+        "description": "Given for successful completion of Unsupervised Learning, Recommenders, Reinforcement Learning by Deepmind.ai.",
+        "pathToImage": "/Unsupervised.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/ZQA7DGI1JFW0"
+    },
+    {
+        "certificateName": "Summer Program 2024",
+        "description": "Given for successful submission of game during game jam in summer program 2024 by M-labs.",
+        "pathToImage": "/summerMlabs.png",
+        "link": "https://www.coursera.org/account/accomplishments/verify/SXGBUBSRNNDK"
+    },
+    {
+        "certificateName": "Generative AI: Prompt engineering basics",
+        "description": "Given for successful completion of generative AI course series part 4 by IBM.",
+        "pathToImage": "/GenAi.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/4XQGMBRPZ85U"
     }
 ]

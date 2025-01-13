@@ -1,5 +1,23 @@
 [
     {
+        "projectName": "Federated Learning",
+        "pathToImage": "/FederatedLearning.jpg",
+        "description": "Custom protocol on top of TCP for networking, random forest training (scikit-learn), UI using PyQT5",
+        "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_have-you-ever-wanted-to-train-an-ai-model-activity-7278656548816474112-iCMz?utm_source=social_share_send&utm_medium=member_desktop_web"
+    },
+    {
+        "projectName": "Software Square Website",
+        "pathToImage": "/swsq.png",
+        "description": "I was part of the development team for software square's website. Built using ASP.NET core MVC",
+        "link": "softwaresquare.csuet.com"
+    },
+    {
+        "projectName": "Automated Number Plate Detection System",
+        "pathToImage": "/anpds.png",
+        "description": "Developed for Software Engineering Lab during 5th semester with my group using yolov8, tesserect-OCR, firebase, django, next",
+        "link": "softwaresquare.csuet.com"
+    },
+    {
         "projectName": "Customer Engagement Segmental Analysis",
         "pathToImage": "/frontend.png",
         "description": "Group Project wtih Areej Fatima, Aanish Naveed, Hamna Kamran, Ramsha Shabbir. Full stack application using ASP.NET core MVC 6 along with DB design, ETL and powerBI dashboard",
@@ -8,13 +26,13 @@
     {
         "projectName": "Lost in space",
         "pathToImage": "/ico.png",
-        "description": "This is a game made using unity, you fly in space, meant to played during nighttime in the dark, the color tones and sound had this mood kept in mind.",
+        "description": "This is a game made using unity, you fly in space, meant to be played during nighttime in the dark, the color tones and sound were chosen with this sentiment kept in mind.",
         "link": "https://play.google.com/store/apps/details?id=com.KakanicsPlay.LostInSpace&hl=en_US&pli=1"
     },
     {
         "projectName": "3-axis Robot arm",
         "pathToImage": "/robo.png",
-        "description": "Made using 3 servos, arduino nano. Controlled using joysticks for 2 axis and 2 buttons for 3rd axis. One of my favorite projects",
+        "description": "Made using 3 servos, arduino nano. Controlled using joysticks for 2 axis and 2 buttons for 3rd axis. It was one of my favorite projects",
         "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_semester-break-project-robot-arm-i-made-activity-7152256348687130625-wXF2?utm_source=share&utm_medium=member_desktop"
     },
     {
@@ -54,15 +72,21 @@
         "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_over-the-past-few-weeks-ive-been-dedicated-activity-7100513538133135360-5iSb?utm_source=share&utm_medium=member_desktop"
     },
     {
-        "projectName": "Software Square Website",
-        "pathToImage": "/swsq.png",
-        "description": "I was part of the development team for software square's website. Built using ASP.NET core MVC",
-        "link": "softwaresquare.csuet.com"
-    },
-    {
         "projectName": "Digital Thermometer",
         "pathToImage": "/thermo.png",
         "description": "Uses DHT-11, i2c 16x2 LCD and esp01",
         "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_my-cute-little-digital-thermometer-uses-activity-6996167226101796864-UA2y?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "projectName": "Automating the analysis of thick blood smear slide images using deep learning",
+        "pathToImage": "/MLlabPoster.png",
+        "description": "trained a model for detecting malaria in segmented thick blood smear slide images using tensorflow-gpu, CuDNN, cuda-toolkit",
+        "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_have-you-ever-wanted-to-train-an-ai-model-activity-7278656548816474112-iCMz?utm_source=social_share_send&utm_medium=member_desktop_web"
+    },
+    {
+        "projectName": "Vele Piggies",
+        "pathToImage": "/vele.png",
+        "description": "A game I made working with Muhammad Ahsan for an internship program by M-labs",
+        "link": "https://github.com/kakanics/velePigies/releases/tag/v1.5"
     }
 ]
