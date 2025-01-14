@@ -1,92 +1,92 @@
 [
-    {
-        "projectName": "Federated Learning",
-        "pathToImage": "/FederatedLearning.jpg",
-        "description": "Custom protocol on top of TCP for networking, random forest training (scikit-learn), UI using PyQT5",
-        "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_have-you-ever-wanted-to-train-an-ai-model-activity-7278656548816474112-iCMz?utm_source=social_share_send&utm_medium=member_desktop_web"
-    },
-    {
-        "projectName": "Software Square Website",
-        "pathToImage": "/swsq.png",
-        "description": "I was part of the development team for software square's website. Built using ASP.NET core MVC",
-        "link": "softwaresquare.csuet.com"
-    },
-    {
-        "projectName": "Automated Number Plate Detection System",
-        "pathToImage": "/anpds.png",
-        "description": "Developed for Software Engineering Lab during 5th semester with my group using yolov8, tesserect-OCR, firebase, django, next",
-        "link": "softwaresquare.csuet.com"
-    },
-    {
-        "projectName": "Customer Engagement Segmental Analysis",
-        "pathToImage": "/frontend.png",
-        "description": "Group Project wtih Areej Fatima, Aanish Naveed, Hamna Kamran, Ramsha Shabbir. Full stack application using ASP.NET core MVC 6 along with DB design, ETL and powerBI dashboard",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7193792215255527424?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7193792215255527424%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bm6Xn4kRnSye2XHo5%2BrnmAQ%3D%3D"
-    },
-    {
-        "projectName": "Lost in space",
-        "pathToImage": "/ico.png",
-        "description": "This is a game made using unity, you fly in space, meant to be played during nighttime in the dark, the color tones and sound were chosen with this sentiment kept in mind.",
-        "link": "https://play.google.com/store/apps/details?id=com.KakanicsPlay.LostInSpace&hl=en_US&pli=1"
-    },
-    {
-        "projectName": "3-axis Robot arm",
-        "pathToImage": "/robo.png",
-        "description": "Made using 3 servos, arduino nano. Controlled using joysticks for 2 axis and 2 buttons for 3rd axis. It was one of my favorite projects",
-        "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_semester-break-project-robot-arm-i-made-activity-7152256348687130625-wXF2?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        "projectName": "Ambient Light detection system",
-        "pathToImage": "/avr.png",
-        "description": "AVR assembly project using arduino, esp used to upload light data to the firebase and thingspeak. Used to detect atmosphere lighting",
-        "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_excited-to-unveil-our-coal-project-at-department-activity-7148504388913750016-H74c?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        "projectName": "DOS",
-        "pathToImage": "/dos.png",
-        "description": "Disk Operating System using C++ using Tree data structure",
-        "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_following-is-the-showcase-of-my-final-project-activity-7147652829866778624-bbkA?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        "projectName": "Excel",
-        "pathToImage": "/excel.png",
-        "description": "Mini excel built using C++ using quad linked list (custom data structure)",
-        "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_following-is-the-showcase-of-my-mid-project-activity-7147651175415201792-OJW0?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        "projectName": "HTML particle System",
-        "pathToImage": "/PS.png",
-        "description": "I found an animation that I liked to I recreated it using HTML as a learning experience",
-        "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_while-installing-home-assistant-i-noticed-activity-7134463536121982977-q7t7?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        "projectName": "Face Detection System",
-        "pathToImage": "/Face.png",
-        "description": "Uses HARS model and CV to detect faces",
-        "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_codsoft-ai-internship-task-5-face-detection-activity-7126504753471062016-VKyN?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        "projectName": "E-commerce store",
-        "pathToImage": "/Ecommerce.png",
-        "description": "Full stack application using MySQL, Node.JS, React.JS, express.JS and Vite.ts",
-        "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_over-the-past-few-weeks-ive-been-dedicated-activity-7100513538133135360-5iSb?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        "projectName": "Digital Thermometer",
-        "pathToImage": "/thermo.png",
-        "description": "Uses DHT-11, i2c 16x2 LCD and esp01",
-        "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_my-cute-little-digital-thermometer-uses-activity-6996167226101796864-UA2y?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        "projectName": "Automating the analysis of thick blood smear slide images using deep learning",
-        "pathToImage": "/MLlabPoster.png",
-        "description": "trained a model for detecting malaria in segmented thick blood smear slide images using tensorflow-gpu, CuDNN, cuda-toolkit",
-        "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_have-you-ever-wanted-to-train-an-ai-model-activity-7278656548816474112-iCMz?utm_source=social_share_send&utm_medium=member_desktop_web"
-    },
-    {
-        "projectName": "Vele Piggies",
-        "pathToImage": "/vele.png",
-        "description": "A game I made working with Muhammad Ahsan for an internship program by M-labs",
-        "link": "https://github.com/kakanics/velePigies/releases/tag/v1.5"
-    }
+  {
+    "projectName": "3-axis Robot arm",
+    "pathToImage": "/robo.png",
+    "description": "Made using 3 servos, arduino nano. Controlled using joysticks for 2 axis and 2 buttons for 3rd axis. It was one of my favorite projects",
+    "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_semester-break-project-robot-arm-i-made-activity-7152256348687130625-wXF2?utm_source=share&utm_medium=member_desktop"
+  },
+  {
+    "projectName": "Automated Number Plate Detection System",
+    "pathToImage": "/anpds.png",
+    "description": "Developed for Software Engineering Lab during 5th semester with my group using yolov8, tesserect-OCR, firebase, django, next",
+    "link": "softwaresquare.csuet.com"
+  },
+  {
+    "projectName": "Federated Learning",
+    "pathToImage": "/FederatedLearning.jpg",
+    "description": "Custom protocol on top of TCP for networking, random forest training (scikit-learn), UI using PyQT5",
+    "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_have-you-ever-wanted-to-train-an-ai-model-activity-7278656548816474112-iCMz?utm_source=social_share_send&utm_medium=member_desktop_web"
+  },
+  {
+    "projectName": "Software Square Website",
+    "pathToImage": "/swsq.png",
+    "description": "I was part of the development team for software square's website. Built using ASP.NET core MVC",
+    "link": "softwaresquare.csuet.com"
+  },
+  {
+    "projectName": "Lost in space",
+    "pathToImage": "/ico.png",
+    "description": "This is a game made using unity, you fly in space, meant to be played during nighttime in the dark, the color tones and sound were chosen with this sentiment kept in mind.",
+    "link": "https://play.google.com/store/apps/details?id=com.KakanicsPlay.LostInSpace&hl=en_US&pli=1"
+  },
+  {
+    "projectName": "Vele Piggies",
+    "pathToImage": "/vele.png",
+    "description": "A game I made working with Muhammad Ahsan for an internship program by M-labs",
+    "link": "https://github.com/kakanics/velePigies/releases/tag/v1.5"
+  },
+  {
+    "projectName": "Customer Engagement Segmental Analysis",
+    "pathToImage": "/frontend.png",
+    "description": "Group Project wtih Areej Fatima, Aanish Naveed, Hamna Kamran, Ramsha Shabbir. Full stack application using ASP.NET core MVC 6 along with DB design, ETL and powerBI dashboard",
+    "link": "https://www.linkedin.com/feed/update/urn:li:activity:7193792215255527424?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7193792215255527424%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bm6Xn4kRnSye2XHo5%2BrnmAQ%3D%3D"
+  },
+  {
+    "projectName": "E-commerce store",
+    "pathToImage": "/Ecommerce.png",
+    "description": "Full stack application using MySQL, Node.JS, React.JS, express.JS and Vite.ts",
+    "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_over-the-past-few-weeks-ive-been-dedicated-activity-7100513538133135360-5iSb?utm_source=share&utm_medium=member_desktop"
+  },
+  {
+    "projectName": "Excel",
+    "pathToImage": "/excel.png",
+    "description": "Mini excel built using C++ using quad linked list (custom data structure)",
+    "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_following-is-the-showcase-of-my-mid-project-activity-7147651175415201792-OJW0?utm_source=share&utm_medium=member_desktop"
+  },
+  {
+    "projectName": "HTML particle System",
+    "pathToImage": "/PS.png",
+    "description": "I found an animation that I liked to I recreated it using HTML as a learning experience",
+    "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_while-installing-home-assistant-i-noticed-activity-7134463536121982977-q7t7?utm_source=share&utm_medium=member_desktop"
+  },
+  {
+    "projectName": "Face Detection System",
+    "pathToImage": "/Face.png",
+    "description": "Uses HARS model and CV to detect faces",
+    "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_codsoft-ai-internship-task-5-face-detection-activity-7126504753471062016-VKyN?utm_source=share&utm_medium=member_desktop"
+  },
+  {
+    "projectName": "DOS",
+    "pathToImage": "/dos.png",
+    "description": "Disk Operating System using C++ using Tree data structure",
+    "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_following-is-the-showcase-of-my-final-project-activity-7147652829866778624-bbkA?utm_source=share&utm_medium=member_desktop"
+  },
+  {
+    "projectName": "Digital Thermometer",
+    "pathToImage": "/thermo.png",
+    "description": "Uses DHT-11, i2c 16x2 LCD and esp01",
+    "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_my-cute-little-digital-thermometer-uses-activity-6996167226101796864-UA2y?utm_source=share&utm_medium=member_desktop"
+  },
+  {
+    "projectName": "Automating the analysis of thick blood smear slide images using deep learning",
+    "pathToImage": "/MLlabPoster.png",
+    "description": "trained a model for detecting malaria in segmented thick blood smear slide images using tensorflow-gpu, CuDNN, cuda-toolkit",
+    "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_have-you-ever-wanted-to-train-an-ai-model-activity-7278656548816474112-iCMz?utm_source=social_share_send&utm_medium=member_desktop_web"
+  },
+  {
+    "projectName": "Ambient Light detection system",
+    "pathToImage": "/avr.png",
+    "description": "AVR assembly project using arduino, esp used to upload light data to the firebase and thingspeak. Used to detect atmosphere lighting",
+    "link": "https://www.linkedin.com/posts/affan-ahmed-142a4824b_excited-to-unveil-our-coal-project-at-department-activity-7148504388913750016-H74c?utm_source=share&utm_medium=member_desktop"
+  }
 ]
